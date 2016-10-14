@@ -64,7 +64,7 @@ body,html{
 
 /*第一屏*/
 .page1{
-	background: url(../images/003.png);
+	background: url(../images/003.png) center no-repeat;
 }
 .page1-1{
   font-size: 0.3rem;
@@ -75,7 +75,7 @@ body,html{
 
 /*第二屏*/
 .page2{
-	background: url(../images/02.png);
+	background: url(../images/2-2.png) center no-repeat;
   position: relative;
 }
 .page2 img{
@@ -94,7 +94,7 @@ body,html{
 	color: #808080;
 	border-bottom: 2px solid #808080;
   font-size: 0.5rem;
-  margin: 4rem 0.6rem 0 0.6rem;
+  margin: 4.5rem 0.6rem 0 0.6rem;
   text-align: center;
 
 }
@@ -107,7 +107,7 @@ body,html{
 
 /*第三屏*/
 .page3{
-	background: url(../images/04.png);
+	background: url(../images/04.png) center no-repeat;
 	position: relative;
 }
 .page3-1{
@@ -180,11 +180,11 @@ body,html{
     position: absolute;
     top: 6rem;
     left: 1.5rem;
-}
+ }
 
 /*第四屏*/
 .page4{
-	background: url(../images/005.png);
+	background: url(../images/005.png) center no-repeat;
 }
 .p1{
 	color: #999;
@@ -212,7 +212,7 @@ body,html{
 }
 /*第五屏*/
 .page5{
-	background: url(../images/09.png);
+	background: url(../images/09.png) center no-repeat;
 }
 .page5 .img1{
   width: 2rem;
